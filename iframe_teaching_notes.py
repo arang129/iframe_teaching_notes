@@ -69,7 +69,7 @@ TEMPLATE = """\
 <html>
 <head>
     <title>pgweb</title>
-    <link rel="icon" type="image/png" href="https://www.myqnap.org/wp-content/uploads/pgweb-logo.png">
+    <link rel="icon" type="image/png" href="https://cdn-icons-png.flaticon.com/512/1180/1180877.png">
     
     <style>
         body {{
@@ -80,7 +80,7 @@ TEMPLATE = """\
     </style>
 </head>
 <body>
-    <iframe src="https://serverjupyterpgweb.yunlab.app/" 
+    <iframe src="https://jupyter2.yunlab.app/services/teaching-notes/" 
             style="width: 100vw; height: 100vh; border: none;">
     </iframe>
 </body>
