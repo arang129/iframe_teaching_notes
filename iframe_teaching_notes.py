@@ -68,7 +68,7 @@ TEMPLATE = """\
 <!DOCTYPE html>
 <html>
 <head>
-    <title>pgweb</title>
+    <title>notes</title>
     <link rel="icon" type="image/png" href="https://cdn-icons-png.flaticon.com/512/1180/1180877.png">
     
     <style>
